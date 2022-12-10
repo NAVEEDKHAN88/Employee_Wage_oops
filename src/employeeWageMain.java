@@ -1,5 +1,5 @@
 public class employeeWageMain {
     public static void main(String[] args) {
-        System.out.println("welcome to Employee Wage Computation Program using oops");
+        System.out.println("welcome to Employee Wage Computation Program using oop's");
     }
 }
